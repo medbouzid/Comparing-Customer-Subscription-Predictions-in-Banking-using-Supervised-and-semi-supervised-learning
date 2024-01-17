@@ -153,14 +153,5 @@ To obtain the Bank Marketing dataset, follow these steps:
 
 3. The dataset should now be available in the extracted directory for further use in your project.
 
-## Contributors
 
-The following contributors have worked on this project:
 
-- Professor: Arash Azarfar ([arash.azarfar@concordia.ca](mailto:arash.azarfar@concordia.ca))
-- Lead TA: Soorena Salari ([soorena.salari@mail.concordia.ca](mailto:soorena.salari@mail.concordia.ca))
-- Lead TA and Lab Instructor: Denisha Thakkar ([denisha.thakkar@mail.concordia.ca](mailto:denisha.thakkar@mail.concordia.ca))
-- TA and Lab Instructor: Farzad Salajegheh ([farzad.salajegheh@concordia.ca](mailto:farzad.salajegheh@concordia.ca))
-- TA and Lab Instructor: Y A Joarder ([ya.joarder@concordia.ca](mailto:ya.joarder@concordia.ca))
-
-Please feel free to reach out to them if you have any questions or need further assistance.
