@@ -1,0 +1,11 @@
+age,job,marital,education,default,balance,housing,loan,contact,day,month,duration,campaign,pdays,previous,poutcome,y
+56,management,single,secondary,no,237,yes,no,telephone,17,nov,117,3,131,4,failure,no
+28,admin.,single,secondary,no,1507,no,no,cellular,7,jul,92,1,-1,0,unknown,no
+24,blue-collar,divorced,secondary,no,513,yes,no,cellular,15,may,61,3,-1,0,unknown,no
+48,blue-collar,married,primary,no,3020,no,no,cellular,12,aug,645,3,-1,0,unknown,no
+46,services,divorced,secondary,no,-179,no,no,cellular,2,feb,151,1,214,2,failure,no
+38,technician,married,secondary,no,257,no,no,cellular,26,aug,57,10,-1,0,unknown,no
+58,retired,divorced,primary,no,1194,yes,no,cellular,22,may,807,1,310,1,other,no
+31,admin.,married,secondary,no,941,yes,no,cellular,8,apr,213,4,-1,0,unknown,no
+38,housemaid,married,secondary,no,1372,yes,yes,unknown,15,may,224,1,-1,0,unknown,no
+37,blue-collar,married,primary,no,1222,yes,no,cellular,6,may,206,1,-1,0,unknown,no
