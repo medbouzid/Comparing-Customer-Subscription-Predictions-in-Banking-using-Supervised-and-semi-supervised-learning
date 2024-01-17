@@ -1,4 +1,4 @@
-# Comp6721-Project-G05
+# Optimizing Customer Subscription Predictions in Banking: A Comparative Analysis of Decision Trees, Semi-Structured Decision Trees, and Deep Neural Networks
 
 ## Project Description:
 This project aims to optimize and evaluate machine learning techniques for predicting customer subscriptions to a term deposit in the banking industry. The "Bank Marketing" dataset is used, and preprocessing steps are applied to handle missing values, encode categorical variables, and address imbalanced classes. Three machine learning techniques, namely decision trees, semi-supervised decision trees, and deep neural networks (DNN), are explored and evaluated using various performance metrics.
